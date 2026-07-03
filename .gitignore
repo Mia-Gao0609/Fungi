@@ -1,0 +1,4 @@
+*.pth
+*.zip
+fungi_data_*
+fungi_dataset
