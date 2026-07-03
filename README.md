@@ -4,6 +4,8 @@ Based on your project context (Stanford/NVIDIA summer program, Fungi image class
 ---
 
 # 🍄 Fungi Identifier
+<img width="2462" height="1392" alt="final" src="https://github.com/user-attachments/assets/76c55f0e-4f9d-49e8-92a6-f058e8d78f67" />
+
 
 A web-based image classification tool that identifies fungi species from photographs and provides information about their edibility and toxicity. Built with a deep learning backend and an interactive HTML/CSS/JS frontend.
 
